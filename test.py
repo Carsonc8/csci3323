@@ -1,5 +1,12 @@
+def main():
+    y = 3
+    x = 3
+    z = 5
+    print(x,y, z)
+
+
+main()
 def cow():
-    cow_sound = "moooooo"
-    print("cows are awesome", cow_sound)
+    print("cows are awesome")
 
 cow()

@@ -1,7 +1,8 @@
 def main():
     y = 3
     x = 3
-    print(y,x)
+    z = 5
+    print(y,x, z)
 
 
 main()

@@ -1,5 +1,6 @@
 def main():
-    print("x + y")
+    y = 3
+    print(y, " + x")
 
 main()
 def cow():

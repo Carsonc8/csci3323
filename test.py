@@ -10,3 +10,8 @@ def cow():
     print("cows are awesome")
 
 cow()
+
+def done():
+    print("We did it!")
+
+done()

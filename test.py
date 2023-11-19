@@ -1,4 +1,4 @@
 def main():
-    print("cow")
+    print("cows are awesome")
 
 main()

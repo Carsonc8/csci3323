@@ -1,4 +1,5 @@
-def main():
-    print("cows are awesome")
+def cow():
+    cow_sound = "moooooo"
+    print("cows are awesome", cow_sound)
 
-main()
+cow()

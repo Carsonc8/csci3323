@@ -1,4 +1,5 @@
 def main():
-    print("y + x")
+    y = 3
+    print(y, " + x")
 
 main()
